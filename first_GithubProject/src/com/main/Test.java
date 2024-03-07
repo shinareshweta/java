@@ -6,5 +6,9 @@ public class Test
 	{
 		System.out.println("Successs First project");
 	}
+	public void m1()
+	{
+		
+	}
 
 }
